@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="\plugins\xyz_tiles_basemap_loader" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

@@ -5,8 +5,9 @@ A QGIS plugin to quickly load multiple open-source basemaps as XYZ tiles with on
 ## Installation
 1. Download the plugin ZIP file from the QGIS plugin repository.
 2. In QGIS, go to `Plugins > Manage and Install Plugins > Install from ZIP`.
-3. Select the downloaded ZIP file and install.
-4. The plugin will appear in the QGIS toolbar and Plugins menu.
+[![Diagram of the System](https://github.com/AnustupJana/xyzTilesBasemapLoader-plugin/blob/main/doc/1st%20Plugin.png?raw=true)](https://github.com/AnustupJana/xyzTilesBasemapLoader-plugin/blob/main/doc/1st%20Plugin.png?raw=true)
+4. Select the downloaded ZIP file and install.
+5. The plugin will appear in the QGIS toolbar and Plugins menu.
 
 ## Usage
 1. Click the plugin icon or select `XYZ Tiles Basemap Loader` from the Plugins menu.
